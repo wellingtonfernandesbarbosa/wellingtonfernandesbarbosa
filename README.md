@@ -6,7 +6,7 @@ Atualmente estou imerso em um projeto pessoal fictício, criando um website para
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 16px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonfernandesbarbosa&layout=compact&theme=radical" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wellingtonfernandesbarbosa&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wellingtonfernandesbarbosa&show_icons=true&theme=radical" height="200" width="450"/>
 </div>
 
 <br>
