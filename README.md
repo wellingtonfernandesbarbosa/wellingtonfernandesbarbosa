@@ -1,5 +1,6 @@
 ## Bem-vindo ao meu GitHub!
-Olá! Eu sou Wellington Fernandes, um entusiasta da tecnologia apaixonado por desenvolvimento. Estou em busca da minha primeira oportunidade como desenvolvedor Front End e atualmente focado em aprimorar minhas habilidades em React e TypeScript.
+
+Olá! Eu sou Wellington Fernandes, um entusiasta da tecnologia com uma paixão pelo desenvolvimento web. Estou em busca da minha primeira oportunidade como desenvolvedor Front End e atualmente focado em aprimorar minhas habilidades em React e TypeScript.
 
 Atualmente estou imerso em um projeto pessoal fictício, criando um website para uma igreja. Neste projeto, estou aplicando meus conhecimentos em TypeScript, React Hooks e SASS para desenvolver uma experiência envolvente e funcional.
 
@@ -20,6 +21,8 @@ Atualmente estou imerso em um projeto pessoal fictício, criando um website para
   <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
+
+<br>
 
 ## Meus contatos
 
