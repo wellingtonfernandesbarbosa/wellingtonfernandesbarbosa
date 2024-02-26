@@ -32,14 +32,20 @@ Fique à vontade para entrar em contato comigo para oportunidades de colaboraç�
   <a href="https://wellingtonfernandes.vercel.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="https://mailto:wellsfernandes1991@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://wa.me/5531972163794">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://t.me/wellingtonfernandes42">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/wellsfernandes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a malink="https://wellingtonfernandesbarbosa@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-1A73E8?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+  <a href="https://mailto:wellsfernandes1991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
